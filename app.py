@@ -232,4 +232,4 @@ demo = gr.Interface(
 if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 7860))
-    demo.launch(server_name="0.0.0.0", server_port=port)
+    demo.queue().launch(server_name="0.0.0.0", server_port=port, share=False)
