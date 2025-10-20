@@ -45,7 +45,7 @@ COURSE_DATA = {
 }
 
 # ===== 3. KHỞI TẠO MODEL & CHROMA =====
-model = SentenceTransformer("BAAI/bge-m3")  # auto-download từ hub
+model = SentenceTransformer("keepitreal/vietnamese-sbert")
 
 # chroma client
 client = chromadb.PersistentClient(path=DB_DIR, settings=Settings())
