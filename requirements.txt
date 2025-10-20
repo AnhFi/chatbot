@@ -9,3 +9,5 @@ python-Levenshtein
 unidecode
 pandas
 PyMuPDF
+fastapi
+uvicorn
