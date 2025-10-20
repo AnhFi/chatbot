@@ -1,13 +1,8 @@
 gradio
 chromadb
 sentence-transformers
-tqdm
-regex
-pdfplumber
+pandas
 fuzzywuzzy
 python-Levenshtein
 unidecode
-pandas
-PyMuPDF
-fastapi
-uvicorn
+tqdm
