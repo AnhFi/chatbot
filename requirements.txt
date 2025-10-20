@@ -1,0 +1,11 @@
+gradio
+chromadb
+sentence-transformers
+tqdm
+regex
+pdfplumber
+fuzzywuzzy
+python-Levenshtein
+unidecode
+pandas
+PyMuPDF
